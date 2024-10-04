@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="anchorpane1" prefHeight="71.0" prefWidth="494.0" style="-fx-background-color: #222831; -fx-background-radius: 5;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.coffeefx.VisitTransactionController">
+   <children>
+      <Circle fx:id="userimage" fill="DODGERBLUE" layoutX="18.0" layoutY="25.0" radius="11.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Label fx:id="username" layoutX="36.0" layoutY="16.0" prefHeight="17.0" prefWidth="110.0" text="Prapti Mojumder" textFill="#f8f4f4">
+         <font>
+            <Font name="Bell MT Bold" size="11.0" />
+         </font>
+      </Label>
+      <Label fx:id="way" alignment="TOP_LEFT" layoutX="146.0" layoutY="17.0" prefHeight="50.0" prefWidth="274.0" text="1. Shonirakhra ---&gt; Jatrabari (by Bus) 2. Jatrabari ---&gt; Gulistan (by Rickshaw) 3. Gulistan ---&gt; Shahabhag (by CNG))" textFill="#fdfbfb" wrapText="true">
+         <font>
+            <Font name="Bodoni MT" size="10.0" />
+         </font>
+      </Label>
+      <Circle fx:id="verify" fill="DODGERBLUE" layoutX="460.0" layoutY="25.0" radius="11.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" style="-fx-background-color: white;" />
+   </children>
+</AnchorPane>
