@@ -1,4 +1,4 @@
-Easy Explore - Advanced OOP Course Project
+<h1>Easy Explore App</h1>
 
 Easy Explore is an application built using Java and Scene Builder as part of an advanced Object-Oriented Programming (OOP) course. This project integrates game-like mechanics to encourage users to explore and discover new places in their town.
 
