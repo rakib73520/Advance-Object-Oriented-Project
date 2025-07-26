@@ -50,6 +50,7 @@ Easy Explore is an interactive JavaFX-based town exploration application that co
 
 - **Language**: Java
 - **UI Framework**: JavaFX with Scene Builder
+- **Database**: MySQL (via XAMPP)
 - **Architecture**: Object-Oriented Programming principles
 - **Design Patterns**: MVC architecture, Observer pattern for real-time updates
 - **Development Tools**: Scene Builder for UI design and layout management
