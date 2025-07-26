@@ -124,7 +124,7 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 **Rakibul Hasan**
 - 📧 Email: rakibulhasan38556@gmail.com
-- 💼 LinkedIn: [Rakibul Hasan](https://linkedin.com/in/rakibul-hasan)
+- 💼 LinkedIn: [Rakibul Hasan](https://www.linkedin.com/in/rakibul-hasan-5539891a3/)
 - 🐙 GitHub: [@rakib73520](https://github.com/rakib73520)
 - 🏆 Competitive Programming: [Codeforces](https://codeforces.com/profile/rakib73520) | [LeetCode](https://leetcode.com/rakib73520)
 
