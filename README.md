@@ -2,7 +2,7 @@
 
 **Gamified Local Landmark Discovery Platform**
 
-Easy Explore is an interactive JavaFX-based town exploration application that combines gamification mechanics with local discovery to encourage users to explore and document landmarks in their community. Built as part of an advanced Object-Oriented Programming (OOP) course, this project demonstrates comprehensive software design patterns and user engagement strategies.
+Easy Explore is an interactive JavaFX-based town exploration application that combines gamification mechanics with local discovery to encourage users to explore and document landmarks in their community. Built as part of an advanced Object-Oriented Programming (OOP) course, this project boosted user engagement and content creation through in-app blogging, route suggestion, and dynamic XP-based progression.
 
 ## 🎥 Demo Video
 
