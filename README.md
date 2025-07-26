@@ -4,6 +4,12 @@
 
 Easy Explore is an interactive JavaFX-based town exploration application that combines gamification mechanics with local discovery to encourage users to explore and document landmarks in their community. Built as part of an advanced Object-Oriented Programming (OOP) course, this project demonstrates comprehensive software design patterns and user engagement strategies.
 
+## 🎥 Demo Video
+
+[![Easy Explore App Demo](https://img.shields.io/badge/▶️-Watch%20Demo%20Video-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=GPpa3I72A28)
+
+*Click the badge above to watch a complete demonstration of the Easy Explore App in action!*
+
 ## 🚀 Features
 
 ### 🔐 User Management
@@ -36,6 +42,7 @@ Easy Explore is an interactive JavaFX-based town exploration application that co
 | Blog Dislike Received | -3 XP |
 
 #### Badge System
+- **🆕 Newbie**: Starting badge for explorers under 100 XP
 - **🧭 Pathfinder**: Awarded at every 100 XP milestone
 - **⭐ Trailblazer**: Special recognition for dedicated explorers reaching higher exploration levels
 
@@ -59,8 +66,8 @@ Easy Explore is an interactive JavaFX-based town exploration application that co
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/easy-explore-app.git
-   cd easy-explore-app
+   git clone https://github.com/rakib73520/Advance-Object-Oriented-Project.git
+   cd Advance-Object-Oriented-Project
    ```
 
 2. **Build the application**
@@ -113,16 +120,13 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 - UI/UX enhancements
 - Documentation updates
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Developer
 
 **Rakibul Hasan**
 - 📧 Email: rakibulhasan38556@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐙 GitHub: [Your GitHub Profile]
+- 💼 LinkedIn: [Rakibul Hasan](https://linkedin.com/in/rakibul-hasan)
+- 🐙 GitHub: [@rakib73520](https://github.com/rakib73520)
+- 🏆 Competitive Programming: [Codeforces](https://codeforces.com/profile/rakib73520) | [LeetCode](https://leetcode.com/rakib73520)
 
 ---
 
